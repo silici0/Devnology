@@ -1,7 +1,9 @@
 ## Devnology Fullstack Test
 
 De acordo com proposto foi criado dois endPoint api para listagem de produtos e visualização de dados produtos, send 
-/api/products e /api/products/1, seguindo TDD, Repository Pattern
+/api/products e /api/products/1, seguindo TDD, Repository Pattern, feito pipeline para Testes :
+
+![img_2.png](img_2.png)
 
 Para instalar o projeto Laravel foi usado Laravel 9.52.4, PHP 8.0.24 e Mysql 8.0.28 baixa baixar o projeto e rodar 
 comando :
